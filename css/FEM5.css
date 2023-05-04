@@ -43,7 +43,7 @@ body {
     max-width: 450px;
     transition: max-width 250ms;
     margin-bottom: 33px;
-    box-shadow: 0px 20px 11px 0px #00000017;
+    box-shadow: 0px 20px 20px 0px #00000017;
 }
 .container .content {
     padding: 39px 48px 49px;
