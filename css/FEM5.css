@@ -24,6 +24,7 @@ body {
     display: grid;
     background-repeat: repeat-x;
     background-position: top;
+    overflow: hidden;
 }
 @media (min-width: 450px) {
     body {
@@ -41,6 +42,7 @@ body {
     overflow: hidden;
     max-width: 450px;
     transition: max-width 250ms;
+    margin-bottom: 34px;
 }
 .container .content {
     padding: 39px 48px 49px;
