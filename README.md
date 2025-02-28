@@ -23,7 +23,7 @@ Open index.html in your browser to view the component.
 
 🎨 Preview
 
-Live Demo (Add a link if hosted](https://velvety-kataifi-a399ba.netlify.app/)
+Live Demo ((https://velvety-kataifi-a399ba.netlify.app/](https://magical-trifle-4a504d.netlify.app/))
 
 📬 Contact
 
