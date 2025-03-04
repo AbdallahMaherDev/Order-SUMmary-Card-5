@@ -1,7 +1,7 @@
 # Frontend Mentor - Order summary card
 🌟 Introduction
 
-Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a simple yet elegant component that displays a user's test results in a visually appealing way.
+Hello! I'm Abdallah Maher, and this is a solution to the "Order Summary Card" challenge from Frontend Mentor. This project is a simple and elegant component that presents an order summary in a visually appealing way with a clean and modern UI.
 
 🚀 Features
 
@@ -13,13 +13,7 @@ Dynamic score representation
 
 🛠 Technologies Used
 
-HTML5
-
-CSS3 (Flexbox & Grid for layout)
-
-git clone ([https://github.com/AbdallahMaherDev/ReSultS-SUmmary-ComponenT-1](https://github.com/AbdallahMaherDev/Order-SUMmary-Card-5))
-
-Open index.html in your browser to view the component.
+HTML  / CSS3 (Flexbox)
 
 🎨 Preview
 
